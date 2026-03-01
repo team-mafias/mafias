@@ -8,6 +8,3 @@
 | Talha Imran | 27100265 | [talhaimran027]|
 | Sardar Muhammad Armaan Tufail | 272100442 | [Armaan-Tufail]|
 ---
-
-
-[meeting_minutes_1.docx](https://github.com/user-attachments/files/25620635/meeting_minutes_1.docx)
